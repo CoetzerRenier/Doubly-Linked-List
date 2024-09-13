@@ -1,0 +1,14 @@
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\bin\Debug\net8.0\Double Linked List Test.exe
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\bin\Debug\net8.0\Double Linked List Test.deps.json
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\bin\Debug\net8.0\Double Linked List Test.runtimeconfig.json
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\bin\Debug\net8.0\Double Linked List Test.dll
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\bin\Debug\net8.0\Double Linked List Test.pdb
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.AssemblyInfoInputs.cache
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.AssemblyInfo.cs
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.csproj.CoreCompileInputs.cache
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.dll
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\refint\Double Linked List Test.dll
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.pdb
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\Double Linked List Test.genruntimeconfig.cache
+C:\Users\renie\source\repos\Double Linked List Test\Double Linked List Test\obj\Debug\net8.0\ref\Double Linked List Test.dll
